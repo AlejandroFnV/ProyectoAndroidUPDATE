@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ProyectoInterfaz</string>
+    <string name="title_activity_facturas">FacturasActivity</string>
+    <string name="title_activity_comandas">ComandasActivity</string>
+    <string name="title_activity_first_screen">Restaurant</string>
+
+    <!--LOGIN-->
+    <string name="TILUsername">Username</string>
+    <string name="TILPassword">Password</string>
+    <string name="btLogin">Login</string>
+
+
+    <!--NAVIGATION DRAWER-->
+    <string name="navHeader">Welcome</string>
+    <string name="navigation_drawer_open">navigation open</string>
+    <string name="navigation_drawer_close">navigation close</string>
+    <string name="settings_and_account">Settings and account</string>
+    <string name="help_and_feedback">Help and feedback</string>
+    <string name="facturas">Facturas</string>
+    <string name="my_active_commands">Facturas activas</string>
+    <string name="comandas">Comandas</string>
+
+
+    <!--ITEM RECYCLER FACTURA-->
+    <string name="contentDescriptionImgFactura">imgFactura</string>
+    <string name="tvNumComandasFact">Nº de comandas: </string>
+    <string name="tvPrecioFactura">Precio: </string>
+    <string name="btAdd">+</string>
+    <string name="btCancel">x</string>
+
+    <!--ITEM RECYCLER COMANDA-->
+    <string name="contentDescriptionImgComanda">imgComanda</string>
+    <string name="tvNombreComanda">Nombre: </string>
+    <string name="tvPrecioComanda">Precio: </string>
+
+    <!--ITEM RECYCLER PRODUCTO-->
+    <string name="contentDescription">Product Image</string>
+    <string name="tvNameProd">""</string>
+    <string name="tvPriceProd">""</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+
+</resources>

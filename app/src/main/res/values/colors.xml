@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C4AF88</color>
+    <color name="colorPrimaryDark">#A28A3B</color>
+
+    <color name="yellow">#C1ECB471</color>
+    <color name="lightyellow">#C4AF88</color>
+    <color name="hintColor">#CCBB90</color>
+    <color name="cardViewColor">#EED7BD</color>
+
+</resources>
